@@ -1,0 +1,76 @@
+{
+  "artifacts": [],
+  "command": "run",
+  "experiment": {
+    "base_dir": "d:\\PROGRAMMING\\Kaggle\\Binary Classification with a Bank Churn Dataset",
+    "dependencies": [
+      "catboost==1.2.5",
+      "ipython==8.12.0",
+      "numpy==1.24.3",
+      "pandas==2.0.3",
+      "sacred==0.8.5"
+    ],
+    "mainfile": null,
+    "name": "config",
+    "repositories": [],
+    "sources": []
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"d:\\Anaconda3\\Lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^\n",
+    "  File \"C:\\Users\\ghsqj\\AppData\\Local\\Temp\\ipykernel_32880\\2806121463.py\", line 12, in run\n    print('Accuracy:', accuracy)\n                       ^^^^^^^^\n",
+    "NameError: name 'accuracy' is not defined\n"
+  ],
+  "heartbeat": "2024-06-02T12:14:23.315944",
+  "host": {
+    "ENV": {},
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpus": {
+      "driver_version": "546.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce RTX 3060 Ti",
+          "persistence_mode": false,
+          "total_memory": 8192
+        }
+      ]
+    },
+    "hostname": "DESKTOP-8MU8HDS",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22631-SP0"
+    ],
+    "python_version": "3.11.5"
+  },
+  "meta": {
+    "command": "run",
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2024-06-02T12:14:23.202386",
+  "status": "FAILED",
+  "stop_time": "2024-06-02T12:14:23.316944"
+}

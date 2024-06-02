@@ -1,0 +1,8 @@
+{
+  "depth": 6,
+  "iterations": 1000,
+  "learning_rate": 0.1,
+  "loss_function": "Logloss",
+  "seed": 777463440,
+  "verbose": true
+}

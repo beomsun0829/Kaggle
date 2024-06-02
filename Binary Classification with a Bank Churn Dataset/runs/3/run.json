@@ -1,0 +1,80 @@
+{
+  "artifacts": [],
+  "command": "run",
+  "experiment": {
+    "base_dir": "d:\\PROGRAMMING\\Kaggle\\Binary Classification with a Bank Churn Dataset",
+    "dependencies": [
+      "catboost==1.2.5",
+      "ipython==8.12.0",
+      "numpy==1.24.3",
+      "pandas==2.0.3",
+      "sacred==0.8.5",
+      "scikit-learn==1.3.0"
+    ],
+    "mainfile": null,
+    "name": "config",
+    "repositories": [],
+    "sources": []
+  },
+  "fail_trace": [
+    "Traceback (most recent call last):\n",
+    "  File \"d:\\Anaconda3\\Lib\\site-packages\\sacred\\config\\captured_function.py\", line 42, in captured_function\n    result = wrapped(*args, **kwargs)\n             ^^^^^^^^^^^^^^^^^^^^^^^^\n",
+    "  File \"C:\\Users\\ghsqj\\AppData\\Local\\Temp\\ipykernel_32880\\3374131703.py\", line 10, in run\n    train_pool = Pool(X_train, y_train, cat_features=object_cols)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+    "  File \"d:\\Anaconda3\\Lib\\site-packages\\catboost\\core.py\", line 848, in __init__\n    self._init(data, label, cat_features, text_features, embedding_features, embedding_features_data, pairs, weight,\n",
+    "  File \"d:\\Anaconda3\\Lib\\site-packages\\catboost\\core.py\", line 1433, in _init\n    cat_features = _get_features_indices(cat_features, feature_names)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n",
+    "  File \"d:\\Anaconda3\\Lib\\site-packages\\catboost\\core.py\", line 316, in _get_features_indices\n    raise CatBoostError(\"feature names should be a sequence, but got \" + repr(features))\n",
+    "_catboost.CatBoostError: feature names should be a sequence, but got Index(['Geography', 'Gender'], dtype='object')\n"
+  ],
+  "heartbeat": "2024-06-02T12:18:01.328579",
+  "host": {
+    "ENV": {},
+    "cpu": "AMD Ryzen 7 5700X 8-Core Processor",
+    "gpus": {
+      "driver_version": "546.01",
+      "gpus": [
+        {
+          "model": "NVIDIA GeForce RTX 3060 Ti",
+          "persistence_mode": false,
+          "total_memory": 8192
+        }
+      ]
+    },
+    "hostname": "DESKTOP-8MU8HDS",
+    "os": [
+      "Windows",
+      "Windows-10-10.0.22631-SP0"
+    ],
+    "python_version": "3.11.5"
+  },
+  "meta": {
+    "command": "run",
+    "named_configs": [],
+    "options": {
+      "--beat-interval": null,
+      "--capture": null,
+      "--comment": null,
+      "--debug": false,
+      "--enforce_clean": false,
+      "--file_storage": null,
+      "--force": false,
+      "--help": false,
+      "--id": null,
+      "--loglevel": null,
+      "--mongo_db": null,
+      "--name": null,
+      "--pdb": false,
+      "--print-config": false,
+      "--priority": null,
+      "--queue": false,
+      "--s3": null,
+      "--sql": null,
+      "--tiny_db": null,
+      "--unobserved": false
+    }
+  },
+  "resources": [],
+  "result": null,
+  "start_time": "2024-06-02T12:18:01.284672",
+  "status": "FAILED",
+  "stop_time": "2024-06-02T12:18:01.330586"
+}
