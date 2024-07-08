@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/Practice/mlruns/698199147403185232/ff9662e22d2d47909e9a21aea0f3efea/artifacts
+end_time: 1720359830618
+entry_point_name: ''
+experiment_id: '698199147403185232'
+lifecycle_stage: active
+run_id: ff9662e22d2d47909e9a21aea0f3efea
+run_name: Linear Regression
+run_uuid: ff9662e22d2d47909e9a21aea0f3efea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720359830232
+status: 3
+tags: []
+user_id: Hong Beomsun

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/Practice/mlruns/698199147403185232/4d59e8a789ca496d96a7bffd6ee60d19/artifacts
+end_time: 1720370974758
+entry_point_name: ''
+experiment_id: '698199147403185232'
+lifecycle_stage: active
+run_id: 4d59e8a789ca496d96a7bffd6ee60d19
+run_name: MLP Run
+run_uuid: 4d59e8a789ca496d96a7bffd6ee60d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720370973990
+status: 3
+tags: []
+user_id: Hong Beomsun

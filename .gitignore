@@ -1,3 +1,4 @@
 huge/
 .ipynb_checkpoints/
 ex/
+mlruns/models/

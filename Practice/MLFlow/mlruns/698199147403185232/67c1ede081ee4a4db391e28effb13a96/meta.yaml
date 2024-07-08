@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/Practice/mlruns/698199147403185232/67c1ede081ee4a4db391e28effb13a96/artifacts
+end_time: 1720371072305
+entry_point_name: ''
+experiment_id: '698199147403185232'
+lifecycle_stage: active
+run_id: 67c1ede081ee4a4db391e28effb13a96
+run_name: Error Test Run
+run_uuid: 67c1ede081ee4a4db391e28effb13a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720371072241
+status: 3
+tags: []
+user_id: Hong Beomsun
