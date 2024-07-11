@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/_DACON/FakeVoice/mlruns/827167877556480504/46a4a6e4bee14835963fe26ebab0d6d5/artifacts
+end_time: 1720680638677
+entry_point_name: ''
+experiment_id: '827167877556480504'
+lifecycle_stage: active
+run_id: 46a4a6e4bee14835963fe26ebab0d6d5
+run_name: MLP_VariousFeatures
+run_uuid: 46a4a6e4bee14835963fe26ebab0d6d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720679815273
+status: 3
+tags: []
+user_id: Hong Beomsun
