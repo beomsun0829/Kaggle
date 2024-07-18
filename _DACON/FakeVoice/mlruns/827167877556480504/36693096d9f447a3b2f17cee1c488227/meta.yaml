@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/_DACON/FakeVoice/mlruns/827167877556480504/36693096d9f447a3b2f17cee1c488227/artifacts
+end_time: 1721305959799
+entry_point_name: ''
+experiment_id: '827167877556480504'
+lifecycle_stage: active
+run_id: 36693096d9f447a3b2f17cee1c488227
+run_name: XGBoost_Augment
+run_uuid: 36693096d9f447a3b2f17cee1c488227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721305951565
+status: 3
+tags: []
+user_id: Hong Beomsun
