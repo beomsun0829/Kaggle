@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/SKADA/mlruns/730407721234848814/623dbe0d198048c4ac94f078475dc754/artifacts
+end_time: 1722256713436
+entry_point_name: ''
+experiment_id: '730407721234848814'
+lifecycle_stage: active
+run_id: 623dbe0d198048c4ac94f078475dc754
+run_name: Transformer
+run_uuid: 623dbe0d198048c4ac94f078475dc754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722256614404
+status: 3
+tags: []
+user_id: Hong Beomsun
