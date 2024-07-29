@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/SKADA/mlruns/730407721234848814/5693d9ee7b33447e94c0810f1e44eeb3/artifacts
+end_time: 1722245824193
+entry_point_name: ''
+experiment_id: '730407721234848814'
+lifecycle_stage: active
+run_id: 5693d9ee7b33447e94c0810f1e44eeb3
+run_name: GRU
+run_uuid: 5693d9ee7b33447e94c0810f1e44eeb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722245786455
+status: 3
+tags: []
+user_id: Hong Beomsun
