@@ -1,0 +1,1 @@
+Given groups=1, weight of size [64, 16, 2], expected input[128, 50, 16] to have 16 channels, but got 50 channels instead

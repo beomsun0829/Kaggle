@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/SKADA/mlruns/730407721234848814/11f4d81733ed40ac87e87bb054c9dbc0/artifacts
+end_time: 1722260695452
+entry_point_name: ''
+experiment_id: '730407721234848814'
+lifecycle_stage: active
+run_id: 11f4d81733ed40ac87e87bb054c9dbc0
+run_name: TCN
+run_uuid: 11f4d81733ed40ac87e87bb054c9dbc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722260672686
+status: 3
+tags: []
+user_id: Hong Beomsun
