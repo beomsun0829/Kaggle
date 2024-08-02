@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/PROGRAMMING/Kaggle/Practice/MLFlow/mlruns/996831461743819939/3ef7789650d74a0baba997ad592e01ad/artifacts
+end_time: 1722508483715
+entry_point_name: ''
+experiment_id: '996831461743819939'
+lifecycle_stage: active
+run_id: 3ef7789650d74a0baba997ad592e01ad
+run_name: Check Sync
+run_uuid: 3ef7789650d74a0baba997ad592e01ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722508469744
+status: 3
+tags: []
+user_id: Hong Beomsun

@@ -1,5 +1,7 @@
 huge/
-.ipynb_checkpoints/
-ex/
-mlruns/models/
 dataset/
+
+mlruns/models/
+
+.ipynb_checkpoints/
+.venv
